@@ -4,7 +4,7 @@ Hello! I am a 20 year old junior web developer with a passion for building web a
 
 ## 🔭 In terms of technologies 
 
-I am familiar with HTML, CSS, JavaScript, PHP, and some libraries and frameworks like React and Bootstrap. I also have experience developing software with C++ and Java.
+I am familiar with HTML, CSS, JavaScript, PHP, and some libraries and frameworks like React and Bootstrap. I also have experience developing applications with C++ and Java.
 
 ## 🌱 Great enthusiast
 
